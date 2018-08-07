@@ -1,0 +1,353 @@
+
+7월 20, 2018 18:27:35.62 NEW SESSION
+7월 20, 2018 18:27:35.62 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:27:35.97 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:27:36.53 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:27:36.81 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:27:38.03 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:28:59.77 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:30:45.61 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:35:16.46 [Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:16.46 [Child 14752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:16.87 [Child 14752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:16.87 [Child 11568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:48.54 [Child 11568, Chrome_ChildThread] WARNING: piUnable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:35:50.17 [Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:50.18 [Child 3400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:35:50.20 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:35:51.61 IPDL protocol error: Handler returned error code!
+7월 20, 2018 18:35:51.61 
+7월 20, 2018 18:35:51.62 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+7월 20, 2018 18:35:51.62 
+7월 20, 2018 18:38:26.13 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:51:31.65 [Child 14804, Chrome_ChildThread] WARNING: Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:52:41.07 [Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:41.07 [Child 5396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:42.16 [Child 5396, Chrome_ChildThread] WARN[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:42.16 [Child 8572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:43.26 [Child 8572, Chrome_ChildThread] WAR[Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:43.26 [Parent 10340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:43.28 [Child 10988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:52:43.55 
+7월 20, 2018 18:52:43.55 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+7월 20, 2018 18:52:43.55 
+7월 20, 2018 18:53:02.18 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:02.51 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:03.14 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:03.63 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:05.46 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:16.22 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:20.72 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:24.13 [Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:53:24.13 [Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:53:24.34 [Child 8376, Chrome_ChildThr[Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:53:24.34 [Child 3060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:53:24.89 [Child 3060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu[Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 18:53:25.24 
+7월 20, 2018 18:53:25.24 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+7월 20, 2018 18:53:25.24 
+7월 20, 2018 18:53:30.17 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:30.51 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:31.04 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:31.33 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:53:32.51 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 18:54:02.81 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 19:04:52.85 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 19:05:53.91 [Child 7684, Chrome_ChildThread] WARNUnable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 19:06:00.16 [Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:06:00.16 [Child 7716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:06:59.30 [Child 7716, Chrome_ChildThread] WARNING: pipUnable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 19:07:03.79 [Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:07:03.79 [Child 9548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:11:57.18 [Child 9548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipcUnable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+7월 20, 2018 19:17:45.82 [Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:17:45.82 [Child 1364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:18:01.31 [Child 1364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:18:01.31 [Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+7월 20, 2018 19:18:01.31 [Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+8월 02, 2018 16:45:31.12 NEW SESSION
+8월 02, 2018 16:45:31.12 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:45:31.36 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:45:31.69 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:45:31.93 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:45:33.75 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:08.61 [Child 3212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:08.61 [Child 3212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:08.61 [Child 14592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:08.62 [Child 14592, Chrome_[Parent 2192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:08.76 
+8월 02, 2018 16:52:08.78 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 16:52:08.78 
+8월 02, 2018 16:52:38.85 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:39.14 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:39.67 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:39.92 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:42.12 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:52:45.77 [Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:45.77 [Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:45.78 [Child 3760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:45.78 [Child 3760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 16:52:46.08 
+8월 02, 2018 16:52:46.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 16:52:46.08 
+8월 02, 2018 16:57:52.17 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:57:52.43 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:57:52.79 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:57:53.17 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 16:57:54.21 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:04:15.53 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:04:26.35 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:04.35 [Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:04.36 [Child 12904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:04.36 [Child 12904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:06.61 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:11.81 [Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:11.81 [Child 9308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:12.30 [Child 9308, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:12.30 [Child 7936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:13.55 [Child 7936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Parent 11300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:13.56 [Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:13.56 [Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:05:13.73 [GPU 5872, Chrome_ChildThread
+8월 02, 2018 17:05:13.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:05:13.73 
+8월 02, 2018 17:05:15.47 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:15.72 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:16.08 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:16.25 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:17.60 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:05:32.82 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:02.37 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:03.53 [Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:03.53 [Child 7012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:03.53 [Child 7012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:10.22 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:10.50 [Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:10.50 [Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:10.50 [Child 8928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:11.66 [Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:11.66 [Child 14848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:12.05 [Child 14848, Chrome_ChildThread][Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:12.05 [Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:12.28 
+8월 02, 2018 17:06:12.28 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:06:12.28 
+8월 02, 2018 17:06:41.02 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:41.27 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:41.64 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:41.94 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:43.83 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:06:46.83 [Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:06:47.02 [Child 9092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch
+8월 02, 2018 17:06:47.02 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:06:47.02 
+8월 02, 2018 17:07:15.35 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:07:15.62 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:07:15.98 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:07:16.26 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:07:18.24 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:06.09 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:07.55 [Parent 11852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.55 [Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.55 [Child 4032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.57 [Child 11644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.57 [Child 11644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.58 [Parent 11852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:07.82 
+8월 02, 2018 17:08:07.82 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:08:07.82 
+8월 02, 2018 17:08:08.98 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:09.23 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:09.57 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:09.76 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:11.41 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:08:14.99 [Child 13956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:14.99 [Child 13956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:15.00 [Child 10040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:08:15.27 
+8월 02, 2018 17:08:15.27 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:08:15.27 
+8월 02, 2018 17:09:06.21 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:09:06.46 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:09:06.79 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:09:06.98 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:09:08.39 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:09:10.01 IPDL protocol error: Handler returned error code!
+8월 02, 2018 17:09:10.01 
+8월 02, 2018 17:09:10.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 02, 2018 17:09:10.01 
+8월 02, 2018 17:09:13.96 [Parent 9956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:09:13.96 [Child 14800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:09:13.96 [Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:09:14.20 
+8월 02, 2018 17:09:14.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:09:14.20 
+8월 02, 2018 17:19:18.81 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:19:19.10 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:19:19.45 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:19:19.66 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:19:21.19 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:19:27.69 IPDL protocol error: Handler returned error code!
+8월 02, 2018 17:19:27.69 
+8월 02, 2018 17:19:27.69 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 02, 2018 17:19:27.69 
+8월 02, 2018 17:22:04.68 [Parent 1916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:22:04.68 [Child 7116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Child 2776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:22:04.70 [Child 2776, Chrome_ChildThread[Parent 1916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:22:04.70 [Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:22:04.82 [GPU 12008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:22:04.86 
+8월 02, 2018 17:22:04.86 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:22:04.86 
+8월 02, 2018 17:22:06.12 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:22:06.37 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:22:06.73 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:22:06.87 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:22:08.27 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:22:09.66 IPDL protocol error: Handler returned error code!
+8월 02, 2018 17:22:09.66 
+8월 02, 2018 17:22:09.66 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 02, 2018 17:22:09.66 
+8월 02, 2018 17:24:05.89 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 02, 2018 17:24:08.25 [Parent 12680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:08.25 [Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:09.47 [Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Parent 12680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:09.48 [Child 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:09.48 [Child 7852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:09.48 [Child 7852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 10960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 02, 2018 17:24:09.64 [GPU 9056, Chrome_ChildThread] WARNING: pipe error: 109: fil
+8월 02, 2018 17:24:09.64 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 02, 2018 17:24:09.65 
+
+8월 07, 2018 08:58:50.95 NEW SESSION
+8월 07, 2018 08:58:50.95 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 08:58:51.58 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 08:58:52.20 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 08:58:52.84 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 08:58:54.03 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:02.93 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:06.50 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:03:06.50 
+8월 07, 2018 10:03:06.50 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:03:06.50 
+8월 07, 2018 10:03:37.19 [Parent 17244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.19 [Parent 17244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.21 [Child 5116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.21 [Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.21 [Parent 17244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.22 [Child 18268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.22 [Child 18268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:03:37.40 
+8월 07, 2018 10:03:37.40 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:03:37.40 
+8월 07, 2018 10:03:41.45 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:41.70 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:42.06 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:42.27 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:43.66 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:03:48.52 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:03:48.52 
+8월 07, 2018 10:03:48.52 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:03:48.52 
+8월 07, 2018 10:08:08.80 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:08:15.06 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:08:15.06 
+8월 07, 2018 10:08:15.06 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:08:15.06 
+8월 07, 2018 10:08:46.14 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:08:48.03 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:08:48.03 [Child 19968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:08:48.03 [Child 19968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:08:49.36 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:08:49.36 
+8월 07, 2018 10:08:49.36 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:08:49.36 
+8월 07, 2018 10:09:01.74 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:09:01.75 
+8월 07, 2018 10:09:01.75 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:09:01.75 
+8월 07, 2018 10:09:05.78 IPDL protocol error: Handler returned error code!
+8월 07, 2018 10:09:05.78 
+8월 07, 2018 10:09:05.78 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+8월 07, 2018 10:09:05.78 
+8월 07, 2018 10:13:44.39 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:14:47.89 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:14:47.89 [Child 368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:14:47.89 [Child 368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:27:13.33 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:27:32.16 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:27:32.16 [Child 20704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:16.79 [Child 20704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiUnable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:37:18.61 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:18.61 [Child 16580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:18.61 [Child 16580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:19.12 [Child 17488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:20.67 [Child 17488, Chrome[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:20.67 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:20.68 [Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:20.81 [GPU 19348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:37:20.84 
+8월 07, 2018 10:37:20.85 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:37:20.85 
+8월 07, 2018 10:37:24.09 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:37:24.40 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:37:24.75 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:37:25.10 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:37:27.16 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:10.06 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:38.30 [Parent 11036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:41:38.30 [Child 14924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:41:38.30 [Child 14924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:41:38.44 [Parent 11036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:41:38.60 
+8월 07, 2018 10:41:38.60 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:41:38.60 
+8월 07, 2018 10:41:56.10 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:56.37 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:56.70 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:56.94 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:41:58.46 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:08.87 
+8월 07, 2018 10:42:08.87 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:42:08.87 
+8월 07, 2018 10:42:10.08 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:10.34 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:10.64 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:10.87 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:12.33 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:17.67 [Parent 7016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:42:17.86 [GPU 20028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:42:17.90 
+8월 07, 2018 10:42:17.90 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:42:17.90 
+8월 07, 2018 10:42:18.87 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:19.12 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:19.43 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:19.67 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:21.06 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:42:27.97 [Parent 13612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:42:27.97 [Parent 13612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:42:28.18 [GPU 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:42:28.21 
+8월 07, 2018 10:42:28.22 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:42:28.22 
+8월 07, 2018 10:46:31.42 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:46:31.68 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:46:32.01 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:46:32.23 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:46:33.77 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:47:11.60 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:20.46 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:44.36 [Parent 12340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:48:44.36 [Child 16964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:48:44.53 [Child 16964, Chrome_ChildThr[Child 2616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:48:44.71 [C[Parent 12340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+8월 07, 2018 10:48:44.87 
+8월 07, 2018 10:48:44.87 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+8월 07, 2018 10:48:44.87 
+8월 07, 2018 10:48:47.63 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:47.88 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:48.19 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:48.42 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
+8월 07, 2018 10:48:49.83 Unable to read VR Path Registry from C:\Users\SeJin\AppData\Local\openvr\openvrpaths.vrpath
