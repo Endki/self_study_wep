@@ -1,10 +1,7 @@
-INDEX VERSION 1.4+C:\Users\SeJin\self_study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3846017870.index
-1274473038.index
-3372483825.index
-1595940258.index
+INDEX VERSION 1.4+C:\Users\SeJin\self_study_wep\self_study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 3583148013.index
+1022483160.index
+2784529250.index
 1000087233.index
-3489385561.index
-1195061584.index
-2437737517.index
+1274473038.index
+3004924733.index
