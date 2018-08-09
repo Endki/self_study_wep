@@ -2,5 +2,7 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:self-study-01" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:self-study-06" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:self-study-07" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:self-study-08" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:self-study-04" serverId="Tomcat v9.0 Server at localhost"/>
 </modules>

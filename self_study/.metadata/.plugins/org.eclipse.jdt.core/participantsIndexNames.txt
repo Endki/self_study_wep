@@ -7,5 +7,9 @@ C:\Users\SeJin\self_study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\
 \self-study-04\src
 C:\Users\SeJin\self_study_wep\self_study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3297071565.index
 \self-study-05\src
+C:\Users\SeJin\self_study_wep\self_study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1512722467.index
+\self-study-08\src
+C:\Users\SeJin\self_study_wep\self_study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\683593554.index
+\self-study-07\src
 C:\Users\SeJin\self_study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\733541421.index
 \self-study-03\src
