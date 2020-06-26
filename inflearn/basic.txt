@@ -34,3 +34,13 @@ window.alert()
 
 이벤트.target = 클릭한 개체
 이벤트.target.parentNode= 클릭한 개체의 부모개체
+
+마우스 오른쪽 클릭 이벤트 contextmenu
+
+
+currentTarget과 target의 공통점과 차이점
+공통
+이벤트가 일어난 타겟이 어딘지 확인 할 수 있다.
+차이
+currentTarget은 이벤트리스너가 달린다.
+target은 실제로 이벤트가 실제로 발생하는 것.

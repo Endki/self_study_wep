@@ -58,6 +58,31 @@ document.querySelector('#exec').addEventListener('click',function(){
 
                 
             });
+            td.addEventListener('click', function(e){
+                var Ptr=e.currentTarget.parentNode;
+                var Ptbody=e.currentTarget.parentNode.parentNode;
+                var box=Array.prototype.indexOf.call(Ptr.children,e.currentTarget);
+                var line=Array.prototype.indexOf.call(Ptbody.children,Ptr);
+                if(dataset[line][box]==='X'){
+                    e.currentTarget.textContent='펑!';
+                }else{
+                    var corner=[
+                        dataset[line][box-1],dataset[line][box+1],
+                    ];
+                    if(dataset[line-1]){
+                        corner=corner.concat([dataset[line-1][box-1],dataset[line-1][box],dataset[line-1][box+1]])
+                    }
+                    if(dataset[line+1]){
+                        corner=corner.concat([dataset[line+1][box-1],dataset[line+1][box],dataset[line+1][box+1]])
+                    }
+                    e.currentTarget.textContent=corner.filter(function(v){
+                       return v==='X'
+                    }).length;
+
+
+                    
+                }
+            })
             tr.appendChild(td);
             td.textContent;
         }
